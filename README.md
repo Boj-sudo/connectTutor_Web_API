@@ -21,5 +21,10 @@ When a tutor login, the system will take the tutor to the tutor portal where he 
 
 Even when the admin login, the system will take the admin to the admin portal where he can do almost everything our system offers.
 
-Please clone the connectTutor_Docs for more information.
+
+### More links for more information about the system
+1. Please clone the DELIVERABLES on the below link:
+- https://github.com/Boj-sudo/connectTutor_Docs.git
+
+2. Please clone the SQL QUERIES on the below link:
 
