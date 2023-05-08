@@ -23,8 +23,9 @@ Even when the admin login, the system will take the admin to the admin portal wh
 
 
 ### More links for more information about the system
-1. Please clone the DELIVERABLES on the below link:
+1. Please clone the DELIVERABLES on the link below:
 - https://github.com/Boj-sudo/connectTutor_Docs.git
 
-2. Please clone the SQL QUERIES on the below link:
+2. Please clone the SQL QUERIES on the link below:
+- https://github.com/Boj-sudo/connectTutor_SQL_Queries.git
 
